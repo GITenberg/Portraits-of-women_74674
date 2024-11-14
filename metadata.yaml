@@ -1,0 +1,31 @@
+_repo: Portraits-of-women_74674
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradford, Gamaliel
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '55932'
+    url: http://www.gutenberg.org/2009/agents/55932
+    wikipedia: https://en.wikipedia.org/wiki/Gamaliel_Bradford_(biographer)
+description: ''
+gutenberg_issued: '2024-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74674'
+language: en
+pgterms:marc904: https://archive.org/details/portraitsofwomen00brad/page/n11/mode/2up?view=theater
+pgterms:marc905: 20240302010807bradford
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Jamie Brydone-Jack and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aBoston, MA :$bHoughton Mifflin Company, $c1912, copyright 1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Portraits of women
+url: http://www.gutenberg.org/ebooks/74674
